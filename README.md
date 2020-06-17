@@ -3,7 +3,7 @@ JA
 MigotをコンパイルするためのカスタムSpigotTool(このフォークはコンパイルエラーを修正したものです) 
 
 ## 使い方
-ライセンスの都合上、ビルドしたMigotToolsを配布はしません
+ライセンスの都合上、ビルドしたMigotToolsを配布はしません<br>
 要求システム:macOS/Linux, Java, Maven
 
 1. このリポジトリをクローンします
@@ -17,7 +17,7 @@ EN
 Modification of the Spigot's build tools for compiling Migot(This fork fix compile error)
 
 ## How to use
-For license reasons, I don't distribute pre-built versions. So you need to build MigotTool.jar yourself.
+For license reasons, I don't distribute pre-built versions. So you need to build MigotTool.jar yourself.<br>
 Requirements:macOS/Linux, Java, Maven
 
 1. Clone this repo
