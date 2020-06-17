@@ -184,7 +184,7 @@ public class Builder
                 File mvnTemp = new File( "mvn.zip" );
                 mvnTemp.deleteOnExit();
 
-                download( "http://static.spigotmc.org/maven/apache-maven-3.2.5-bin.zip", mvnTemp );
+                download( "http://static.spigotmc.org/maven/apache-maven-3.6.0-bin.zip", mvnTemp );
                 unzip( mvnTemp, new File( "." ) );
             }
         }
